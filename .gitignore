@@ -1,3 +1,5 @@
 54rt.egg-info/
 .venv/
 uv.lock
+tach.lock
+.pytest_cache/
