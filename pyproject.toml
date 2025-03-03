@@ -1,7 +1,7 @@
 [project]
-name = "54rt"
+name = "SCIML"
 version = "0.1.0"
-description = "Hackathon project"
+description = "SCIML"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
