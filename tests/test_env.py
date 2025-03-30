@@ -1,4 +1,4 @@
 import pytest
 
-from sciml.utils import *
-from sciml.models import FNO
+from project.utils import *
+from project.models import Model1, Model2
