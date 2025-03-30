@@ -1,7 +1,7 @@
 [project]
-name = "SCIML"
+name = "Project Name"
 version = "0.1.0"
-description = "SCIML"
+description = "Project Description"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -22,8 +22,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-package-dir = {} # "QR1" = "models/QR1/", "QR2" = "models/QR2/"
-packages = [] # ["QR1", "QR2"]
+package-dir = {} # you can write inside the brackets something like "Model1" = "models/model1/", "Model2" = "models/model2/"
+packages = [] # same, smth like ["Model1", "Model2"]
 
 
 
