@@ -53,17 +53,18 @@ To install dependencies using uv, follow these steps:
 
    - Install dependencies from requirements.txt:
    ```bash
-   uv pip install -r requirements.txt
+   uv add -r requirements.txt
    ```
+
 
    - Add a new package:
    ```bash
-   uv pip install package_name
+   uv add package_name
    ```
 
    - Remove a package:
    ```bash
-   uv pip uninstall package_name
+   uv remove package_name
    ```
 
    - Update a package:
