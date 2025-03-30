@@ -81,3 +81,7 @@ To install dependencies using uv, follow these steps:
    ```bash
    uv pip list
    ```
+
+## Warning
+
+If you're using macOS or Python 3, replace `pip` with `pip3` in line 1 of launch.sh:
