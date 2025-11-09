@@ -1,6 +1,7 @@
 import pytest
 
+def test_env():
+    import project
 
-## replace with your project folder name
-from project.utils import *
-from project.models import Model1, Model2
+if __name__ == "__main__":
+    test_env()

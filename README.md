@@ -1,7 +1,16 @@
 # Project Name
 
-## Description
-A clear and concise description of what this project does and what it is for.
+## 1-line setup with launch.sh
+
+To install and test everything in one step, run:
+
+```bash
+chmod +x launch.sh && ./launch.sh
+```
+
+This makes `launch.sh` executable and runs it, handling all dependency installation and environment setup automatically.
+
+
 
 ## Table of Contents
 - [Installation](#installation)
